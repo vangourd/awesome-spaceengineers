@@ -8,7 +8,7 @@ A curated list of awesome SpaceEngineers builds, tutorials, scripts and mods
 - Tutorials
   - How to play
     - Splitsie [*Space Engineers Tutorials - Getting Started*](https://www.youtube.com/watch?v=kL8XQ1Avz-0&list=PLfMGCUepUcNzLePdu3dZfMTLfWq1bclUK)
-    - Splitsie [*Space Engineers Tutorial: Autopilot & Remote Control](https://github.com/vangourd/awesome-spaceengineers/blob/main/README.md)
+    - Splitsie [*Space Engineers Tutorial: Autopilot & Remote Control](https://www.youtube.com/watch?v=EoXHqKlQPdE)
   - Scripting
     - [Programming 101 Ingame Scripts](https://www.youtube.com/watch?v=LT_ysMb7H8k)
       - [102 - Loops and Groups](https://www.youtube.com/watch?v=KIVUgZfCBjE)
